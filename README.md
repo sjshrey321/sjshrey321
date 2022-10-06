@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjshrey321
 - 👀 I’m interested in Software Development & Data science 
--🌱 I’m currently learning python& c++
+- 🌱 I’m currently learning python& c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
